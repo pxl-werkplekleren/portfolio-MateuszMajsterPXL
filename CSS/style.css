@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+section {
+    border-top: 2px solid darkgreen;
+}
+
+.logboek_table {
+    border-collapse: collapse;
+    background: lightgray;
+
+}
+
+.logboek_table th, .logboek_table td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.ontwikkeling_table {
+    border-collapse: collapse;
+    background: lightgray;
+}
+
+.ontwikkeling_table th, .ontwikkeling_table td {
+    border: 1px solid black;
+    padding: 8px;
+}
